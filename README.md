@@ -1,0 +1,2 @@
+# geoCompu
+Mashup tecnologias emergentes
